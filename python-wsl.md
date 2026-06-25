@@ -15,3 +15,4 @@ Today I set up Python development on Ubuntu WSL using VS Code.
 ```bash
 python3 --version
 ```
+today i have learnt varibals for python from vscode from linux enviroment
