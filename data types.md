@@ -13,3 +13,22 @@ age = 24
 height = 5.8
 is_learning = True
 ```
+---
+
+# Built-in Data Types
+
+## 1. String (str)
+
+Stores text.
+
+```python
+name = "Rahul"
+city = "Hyderabad"
+```
+
+Output
+
+```python
+print(type(name))
+# <class 'str'>
+```
