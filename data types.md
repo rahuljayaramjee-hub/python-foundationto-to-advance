@@ -32,3 +32,20 @@ Output
 print(type(name))
 # <class 'str'>
 ```
+
+
+## 2. Integer (int)
+
+Stores whole numbers.
+
+```python
+age = 24
+marks = 95
+```
+
+Output
+
+```python
+print(type(age))
+# <class 'int'>
+```
