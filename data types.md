@@ -36,6 +36,10 @@ print(type(name))
 
 ## 2. Integer (int)
 
+## Integer (`int`)
+
+An **integer** stores whole numbers without a decimal point.
+
 Stores whole numbers.
 
 ```python
