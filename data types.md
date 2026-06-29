@@ -47,6 +47,9 @@ age = 24
 marks = 95
 ```
 
+today i will be practsing the python statements
+
+
 Output
 
 ```python
